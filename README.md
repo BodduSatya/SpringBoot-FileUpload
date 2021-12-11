@@ -29,3 +29,11 @@ You may also package the application in the form of a jar and then run the jar f
 mvn clean package
 java -jar target/file-demo-0.0.1-SNAPSHOT.jar
 ```
+![image](https://user-images.githubusercontent.com/24984593/145667259-ae150d59-6523-49d4-9a7a-16273b3ada24.png)
+![image](https://user-images.githubusercontent.com/24984593/145667282-1bc85e44-cbd2-497c-b08d-c35b83eb3ddf.png)
+![image](https://user-images.githubusercontent.com/24984593/145667292-4fbb1abf-39b2-44e3-8937-19d5d4d2df7f.png)
+![image](https://user-images.githubusercontent.com/24984593/145667300-18652c8a-402f-4415-98e0-60a9dbf31497.png)
+![image](https://user-images.githubusercontent.com/24984593/145667323-1935bc7b-b50e-4850-8159-5a1a470d0d25.png)
+![Untitled](https://user-images.githubusercontent.com/24984593/145667462-702894a9-018c-43fa-b458-17f4994604d7.png)
+![image](https://user-images.githubusercontent.com/24984593/145667467-d8ea04a8-f12c-4200-b26d-47a40d385b0d.png)
+
