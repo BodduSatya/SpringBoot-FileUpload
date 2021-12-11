@@ -1,9 +1,13 @@
+## Spring Boot File Upload / Download Rest API Example
+
+**Tutorial**: [Uploading an Downloading files with Spring Boot](https://www.callicoder.com/spring-boot-file-upload-download-rest-api-example/)
+
 ## Steps to Setup
 
 **1. Clone the repository** 
 
 ```bash
-git clone https://github.com/BodduSatya/SpringBoot-FileUpload.git
+git clone https://github.com/callicoder/spring-boot-file-upload-download-rest-api-example.git
 ```
 
 **2. Specify the file uploads directory**
@@ -11,13 +15,13 @@ git clone https://github.com/BodduSatya/SpringBoot-FileUpload.git
 Open `src/main/resources/application.properties` file and change the property `file.upload-dir` to the path where you want the uploaded files to be stored.
 
 ```
-file.upload-dir=./uploads
+file.upload-dir=/Users/callicoder/uploads
 ```
 
 **2. Run the app using maven**
 
 ```bash
-cd spring-boot-file-upload-download
+cd spring-boot-file-upload-download-rest-api-example
 mvn spring-boot:run
 ```
 
